@@ -1,8 +1,7 @@
-# AdatisBI Modern Analytics workshop. 
-Hello and welcome to the AdatisBI workshop. Today we will be going on an adventure through the depths of Azure Analytics. 
-You will quickly notice that there is an awful lot of different options for implementing Advanced Analytics in Azure. You need to be careful as choosing the wrong one could be significantly costly. Today we will take you through a few different architectures, we will discuss when you might want to use them and when you definitely do not! Please stop us through out the day and ask questions - We are at your disposal.   
-  
-You might have noticed that there are three of us **waves**. This is not an accident. This is designed to ensure that while someone is talking someone else is on hand to help with particular problems or discuss an issue you're facing. We each have sharpies and access to the whiteboard. We might be able to answer your question during the session, but during the break, lets dive in to some detail.   
+# Python for Machine learning
+Hi there. Thanks for coming to my session. We are going to look at some of the basics of Machine Learning with a focus on Python. 
+
+![GitHub Logo](https://github.com/SQLShark/PythonForMachineLearning/blob/master/Images/Python.png)
 
 # Today's Abstract
 ## An Introduction to Machine Learning with Python
